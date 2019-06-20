@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+    
+        
+        </style>
+    </head>
+    <body>
+       
+        <h1>Ismael's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <ol>
+            <li><a href="#Recipe #1">Receta pizza</a></li>
+            <li><a href="#Recipe #2">Receta hamburguesa</a></li>
+        </ol>
+        
+        <h2 id="Recipe #1">Receta pizza</h2>
+        
+        <ul>
+            <li>Time: 15 min</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Comprar la pizza.</p>
+        <p><strong>Step 2:</strong> Meterla en el horno.
+</p>
+        
+    <p><em>Source: <a href="https://www.comedera.com/como-hacer-pizza-casera/">Some recipes websites</a></em></p>
+    
+     <h2 id="Recipe #2">Receta hamburguesa</h2>
+        
+        <ul>
+            <li>Time: 10 min</li>
+            <li>Serves: 1</li>
+        </ul>
+        
+        
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> Poner mayonesa y lechuga al pan.</p>
+        <p><strong>Step 2:</strong> Poner la carne encima de la lechuga.</p>
+        <p><strong>Step 3:</strong> Echarle ketchup.</p>
+        <p><strong>Step 4:</strong> Comerse la hamburguesa!
+</p>
+        
+    <p><em>Source: <a href="https://www.recetasderechupete.com/como-hacer-la-hamburguesa-casera-perfecta/12659/">Some recipes websites</a></em></p>
+    
+    </body>
+</html>
